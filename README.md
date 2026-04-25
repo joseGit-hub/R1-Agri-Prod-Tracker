@@ -21,12 +21,3 @@ B. Semestral & Quarterly Breakdown
 C. Predictive Simulator
 -A scenario prediction tool that allows users to simulate yield improvements and land expansion.
 -Calculates projected Metric Tons (MT) and net gains dynamically to assist in hypothetical policy evaluations.
-
-Database Schema
-The system then pulls from a relational SQLite database (production.db) with the following structure:
-
--Ecosystem/Croptype: Categorical (Palay, Corn, Irrigated, etc.)
--Geolocation: Spatial (Region I)
--Period: Quarterly and Semester-based timeframes
--Volume_Metric_Tons: Numeric output
--Year: Time-series component (2020-2025)
