@@ -9,6 +9,7 @@ I first downloaded real government data from PSA OpenSTAT to get the info I need
 was put into a database to have a more organized view of the data. Then, the app pulled this data to be used in the system.
 
 Key Features
+
 A. Unified Executive Dashboard
 -Automated Metrics: Displays real-time production totals with Year-over-Year (YoY) growth indicators and percentage deltas.
 
