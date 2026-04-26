@@ -1,6 +1,8 @@
 # 🌾 Region I Agricultural Production Dashboard
 
-An interactive tool designed to analyze and simulate agricultural volume production output in **Region I (Ilocos Region), Philippines**. 
+An interactive tool designed to analyze and simulate agricultural volume production output in **Region I (Ilocos Region), Philippines**.
+
+LiveApp: **https://r1-agri-tracker-ph.streamlit.app/**
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
