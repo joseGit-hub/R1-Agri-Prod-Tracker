@@ -1,10 +1,9 @@
 Region I Agricultural Production Dashboard
 
-Data Analytics 
 Tech Stack: Python, Pandas, Plotly, Streamlit, SQLite
 
 Project Overview
-This is an interactive tool designed to analyze and simulate agricultural output in Region I (Ilocos Region), Philippines. Using Palay and Corn production data from 2020 to 2025, the application transforms raw government statistics (PSA) into actionable insights for food security and regional policy planning.
+This is an interactive tool designed to analyze and simulate agricultural volume production output in Region I (Ilocos Region), Philippines. Using Palay and Corn production data from 2020 to 2025, the application transforms raw government statistics (PSA) into actionable insights for food security and regional policy planning.
 
 I first downloaded real government data from PSA OpenSTAT to get the info I needed as raw data. I then cleaned the data and 
 was put into a database to have a more organized view of the data. Then, the app pulled this data to be used in the system.
