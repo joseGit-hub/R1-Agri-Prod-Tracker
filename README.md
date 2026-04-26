@@ -2,7 +2,9 @@
 
 An interactive tool designed to analyze and simulate agricultural volume production output in **Region I (Ilocos Region), Philippines**.
 
-Access LiveApp: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://r1-agri-tracker-ph.streamlit.app/)
+<a href="https://r1-agri-tracker-ph.streamlit.app/" target="_blank">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+</a>
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
